@@ -203,7 +203,7 @@ export default function Home() {
 
 
       <div className="w-full 2xl:mt-14 mt-4 flex flex-col items-start justify-center">
-        <p className=" text-[22px] font-bold text-[#2B2B2B]">Comece a aprender hoje mesmo com desconto exclusivo Itaú!</p>
+        <p className=" text-[22px] font-bold text-[#2B2B2B]">Comece a aprender hoje mesmo com desconto exclusivo Indico!</p>
         <p className=" text-[18px] leading-7 font-normal text-start mt-6 text-black">
           Não perca essa oportunidade de transformar seu aprendizado de idiomas. Tenha acesso amais de 40 idiomas e aprenda no seu ritmo, de forma prática e divertida.
         </p>
